@@ -1,2 +1,2 @@
 # UAb
-Repositório com arquivos desenvolvidos na Universidade
+Repositório com arquivos criados na Universidade
